@@ -1,0 +1,2 @@
+include pystudio
+include numpy
